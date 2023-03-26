@@ -17,6 +17,16 @@ Remember to delete them, after debugging.
     }
 ```
 
+## Install
+
+### Manual Install
+
+Please copy `SwiftUIDebugRandomBackgroundColor.swift` and LICENSE file to your Xcode project.
+
+### Install Framework
+
+Pull requests are welcomed.
+
 ## How it works
 
 `debugRandomBackgroundColor()` takes `#file`, `#line`, `#column` and `#function` as default parameter values,
